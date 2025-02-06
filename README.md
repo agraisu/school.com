@@ -1,6 +1,10 @@
 # school.com
 
 <p align="center">
+  This Laravel-based school management system is designed to streamline administrative tasks, including student enrollment, grade management, and communication between teachers, students, and parents. The application provides a user-friendly interface for managing school operations efficiently, while ensuring data security and scalability. Key features include role-based access control, dynamic dashboards, and real-time notifications, all built with Laravel’s robust architecture to ensure a smooth and responsive experience for users.
+</p>
+
+<p align="center">
   <a href="https://laravel.com" target="_blank">
     <img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo">
   </a>
